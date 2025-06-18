@@ -5889,7 +5889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 111.76 186.69 0)
 			(effects
 				(font
